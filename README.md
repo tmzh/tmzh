@@ -14,6 +14,17 @@
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&logo=node.js&message=Node.js&label=&color=339933&labelColor=000000)
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&logo=go&message=Go&label=&color=009b52&labelColor=000000)
 <br/>
+![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&logo=scikitlearn&message=scikit-learn&label=&color=9edae5&labelColor=000000)
+![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&logo=tensorflow&message=TensorFlow&label=&color=aec7e8&labelColor=000000)
+![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&logo=pytorch&message=PyTorch&label=&color=1f77b4&labelColor=000000)
+![Apache Spark](https://img.shields.io/static/v1?style=for-the-badge&logo=apachespark&message=Apache%20Spark&label=&color=2ca02c&labelColor=000000)
+![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&logo=jupyter&message=Jupyter&label=&color=ff7f0e&labelColor=000000)
+<br/>
+![AWS](https://img.shields.io/static/v1?style=for-the-badge&logo=amazonaws&message=AWS&label=&color=d62728&labelColor=000000)
+![GCP](https://img.shields.io/static/v1?style=for-the-badge&logo=googlecloud&message=GCP&label=&color=17becf&labelColor=000000)
+![Azure](https://img.shields.io/static/v1?style=for-the-badge&logo=microsoftazure&message=Azure&label=&color=bcbd22&labelColor=000000)
+![Terraform](https://img.shields.io/static/v1?style=for-the-badge&logo=terraform&message=Terraform&label=&color=9467bd&labelColor=000000)
+<br/>
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&logo=css3&message=CSS3&label=&color=1572B6&labelColor=000000)
 ![Javascript](https://img.shields.io/static/v1?style=for-the-badge&logo=javascript&message=Javascript&label=&color=F7DF1E&labelColor=000000)
@@ -29,7 +40,8 @@
 ![PowerShell](https://img.shields.io/static/v1?style=for-the-badge&logo=powershell&message=PowerShell&label=&color=5391FE&labelColor=000000)
 <br/>
 ![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
-![IntelliJ](https://img.shields.io/static/v1?style=for-the-badge&logo=pycharm&message=PyCharm&label=&color=fcd358&labelColor=000000)
+![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&logo=intellijidea&message=IntelliJ%20IDEA&label=&color=c49c94&labelColor=000000)
+ 
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=tmzh)
