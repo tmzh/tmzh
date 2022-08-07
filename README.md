@@ -2,7 +2,7 @@
 - 👦🏿 I'm a software developer by day, a code tinkerer & metagrobologist by night
 - 👀 My areas of interest include ML Engineering, Distributed Data processing, Devops & Functional programming
 - ❤️ I love recreational Maths, in particular Puzzles, Game Theory, Combiniatorics, Dynamic Programming etc.,
-- 🌱 I’m currently learning Frontend using React, NLP using Transformers, Graphql on AWS
+- 🌱 I’m currently learning Frontend using React, visualization using D3js
 
 
 <br/><br/>
